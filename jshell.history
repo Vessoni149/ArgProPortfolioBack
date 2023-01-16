@@ -1,0 +1,6 @@
+VAR#>mvn clean package -DskipTests=true
+VAR#>mvn clean package -DskipTests=true;
+VAR#>mvn clean package -DskipTests=true
+VAR#>SET GLOBAL max_user_connections=100;
+VAR#>SET GLOBAL max_user_connections=100
+VAR#>SET GLOBAL;max_user_connections=100;
